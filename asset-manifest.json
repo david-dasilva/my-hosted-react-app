@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/david-dasilva/my-hosted-react-app/static/css/main.073c9b0a.css",
-    "main.js": "/david-dasilva/my-hosted-react-app/static/js/main.00154dbc.js",
-    "static/js/787.cd77fbc9.chunk.js": "/david-dasilva/my-hosted-react-app/static/js/787.cd77fbc9.chunk.js",
-    "static/media/logo.svg": "/david-dasilva/my-hosted-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/david-dasilva/my-hosted-react-app/index.html",
-    "main.073c9b0a.css.map": "/david-dasilva/my-hosted-react-app/static/css/main.073c9b0a.css.map",
-    "main.00154dbc.js.map": "/david-dasilva/my-hosted-react-app/static/js/main.00154dbc.js.map",
-    "787.cd77fbc9.chunk.js.map": "/david-dasilva/my-hosted-react-app/static/js/787.cd77fbc9.chunk.js.map"
+    "main.css": "/my-hosted-react-app/static/css/main.073c9b0a.css",
+    "main.js": "/my-hosted-react-app/static/js/main.715bd25e.js",
+    "static/js/787.cd77fbc9.chunk.js": "/my-hosted-react-app/static/js/787.cd77fbc9.chunk.js",
+    "static/media/logo.svg": "/my-hosted-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-hosted-react-app/index.html",
+    "main.073c9b0a.css.map": "/my-hosted-react-app/static/css/main.073c9b0a.css.map",
+    "main.715bd25e.js.map": "/my-hosted-react-app/static/js/main.715bd25e.js.map",
+    "787.cd77fbc9.chunk.js.map": "/my-hosted-react-app/static/js/787.cd77fbc9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.00154dbc.js"
+    "static/js/main.715bd25e.js"
   ]
 }
